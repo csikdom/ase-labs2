@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![.github/workflows/ci.yml](https://github.com/csikdom/ase-labs2/actions/workflows/ci.yml/badge.svg?branch=practice-2)](https://github.com/csikdom/ase-labs2/actions/workflows/ci.yml)
 
 # Estimating Text Similarity by Shingling
 
